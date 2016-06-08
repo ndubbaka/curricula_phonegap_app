@@ -6,6 +6,23 @@
     "config_munge": {
         "files": {}
     },
-    "installed_plugins": {},
-    "dependent_plugins": {}
+    "installed_plugins": {
+        "remcob00-cordova-youtube-android-player-api": {
+            "PACKAGE_NAME": "com.phonegap.helloworld"
+        }
+    },
+    "dependent_plugins": {},
+    "modules": [
+        {
+            "file": "plugins/remcob00-cordova-youtube-android-player-api/www/youtube.js",
+            "id": "remcob00-cordova-youtube-android-player-api.youtube",
+            "pluginId": "remcob00-cordova-youtube-android-player-api",
+            "clobbers": [
+                "youtube"
+            ]
+        }
+    ],
+    "plugin_metadata": {
+        "remcob00-cordova-youtube-android-player-api": "2.0.6"
+    }
 }

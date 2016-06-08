@@ -1,0 +1,89 @@
+{
+  "_args": [
+    [
+      "remcob00-cordova-youtube-android-player-api",
+      "/Users/f3wztbn/githubrepos/pgap_hello_world"
+    ]
+  ],
+  "_from": "remcob00-cordova-youtube-android-player-api@latest",
+  "_id": "remcob00-cordova-youtube-android-player-api@2.0.6",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/remcob00-cordova-youtube-android-player-api",
+  "_nodeVersion": "0.10.26",
+  "_npmUser": {
+    "email": "info@remcob00.com",
+    "name": "remcob00"
+  },
+  "_npmVersion": "2.11.3",
+  "_phantomChildren": {},
+  "_requested": {
+    "name": "remcob00-cordova-youtube-android-player-api",
+    "raw": "remcob00-cordova-youtube-android-player-api",
+    "rawSpec": "",
+    "scope": null,
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/remcob00-cordova-youtube-android-player-api/-/remcob00-cordova-youtube-android-player-api-2.0.6.tgz",
+  "_shasum": "cde1daa19258d8a523484b1b029578f5b63328e9",
+  "_shrinkwrap": null,
+  "_spec": "remcob00-cordova-youtube-android-player-api",
+  "_where": "/Users/f3wztbn/githubrepos/pgap_hello_world",
+  "author": {
+    "email": "info@remcob00.com",
+    "name": "Remco Beugels",
+    "url": "https://github.com/RemcoB00"
+  },
+  "bugs": {
+    "email": "info@remcob00.com",
+    "url": "https://github.com/RemcoB00/cordova-phonegap_youtube_player_api_android/issues"
+  },
+  "cordova": {
+    "id": "remcob00-cordova-youtube-android-player-api",
+    "platforms": [
+      "android"
+    ]
+  },
+  "dependencies": {
+    "adm-zip": ">=0.4.7"
+  },
+  "description": "Cordova / Phonegap YouTube Android Player API plugin.",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "cde1daa19258d8a523484b1b029578f5b63328e9",
+    "tarball": "https://registry.npmjs.org/remcob00-cordova-youtube-android-player-api/-/remcob00-cordova-youtube-android-player-api-2.0.6.tgz"
+  },
+  "homepage": "https://github.com/RemcoB00/cordova-phonegap_youtube_player_api_android",
+  "keywords": [
+    "cordova",
+    "ecosystem:cordova",
+    "cordova-android",
+    "phonegap",
+    "youtube",
+    "android",
+    "player api"
+  ],
+  "license": "MIT",
+  "maintainers": [
+    {
+      "email": "info@remcob00.com",
+      "name": "remcob00"
+    }
+  ],
+  "name": "remcob00-cordova-youtube-android-player-api",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RemcoB00/cordova-phonegap_youtube_player_api_android.git"
+  },
+  "scripts": {
+    "install": "node install.js && cd ../.. && cordova plugin add node_modules/remcob00-cordova-youtube-android-player-api && npm uninstall remcob00-cordova-youtube-android-player-api"
+  },
+  "version": "2.0.6"
+}

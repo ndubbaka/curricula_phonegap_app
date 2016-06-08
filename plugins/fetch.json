@@ -158,5 +158,13 @@
         },
         "is_top_level": true,
         "variables": {}
+    },
+    "remcob00-cordova-youtube-android-player-api": {
+        "source": {
+            "type": "local",
+            "path": "node_modules/remcob00-cordova-youtube-android-player-api"
+        },
+        "is_top_level": true,
+        "variables": {}
     }
 }
